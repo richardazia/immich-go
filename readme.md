@@ -241,7 +241,7 @@ Download the source files or clone the repository.
 
 # Acknowledgments
 
-Kudos to the Immich team for they stunning project!🤩
+Kudos to the Immich team for their stunning project!🤩
 
 This program use following 3rd party libraries:
 - github.com/rwcarlsen/goexif to get date of capture from JPEG files
